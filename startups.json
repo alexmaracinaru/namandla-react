@@ -1,0 +1,30 @@
+[
+    {
+        "category": "LeadershipTech",
+        "name": "SummitAlign",
+        "description": "Build stronger, more cohesive teams with AI-driven insights and achieve alignment for peak performance.",
+        "image": "/images/startups/summitalign.png",
+        "link": "#"
+    },
+    {
+        "category": "HealthTech",
+        "name": "NutriLogic",
+        "description": "Scientific nutrition insights powered by AI. Decode your health data for precision and personalized results.",
+        "image": "/images/startups/saluto.png",
+        "link": "#"
+    },
+    {
+        "category": "Podcast",
+        "name": "Faces of Inspiration",
+        "description": "Discover powerful stories of resilience, growth, and creativity through engaging conversations and inspiring voices.",
+        "image": "/images/startups/reminis.png",
+        "link": "#"
+    },
+    {
+        "category": "Data Analytics",
+        "name": "MediaPulse",
+        "description": "Your source for real-time news, analytics, and trends. Transform data into decisions with precision and speed.",
+        "image": "/images/startups/mediapulse.png",
+        "link": "#"
+    }
+]
