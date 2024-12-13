@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/namandla-react/static/css/main.a10e6c6b.css",
-    "main.js": "/namandla-react/static/js/main.74f73a86.js",
+    "main.css": "/namandla-react/static/css/main.1ba53dc4.css",
+    "main.js": "/namandla-react/static/js/main.44ff45ad.js",
     "static/js/488.2c01cf9b.chunk.js": "/namandla-react/static/js/488.2c01cf9b.chunk.js",
     "index.html": "/namandla-react/index.html",
-    "main.a10e6c6b.css.map": "/namandla-react/static/css/main.a10e6c6b.css.map",
-    "main.74f73a86.js.map": "/namandla-react/static/js/main.74f73a86.js.map",
+    "main.1ba53dc4.css.map": "/namandla-react/static/css/main.1ba53dc4.css.map",
+    "main.44ff45ad.js.map": "/namandla-react/static/js/main.44ff45ad.js.map",
     "488.2c01cf9b.chunk.js.map": "/namandla-react/static/js/488.2c01cf9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a10e6c6b.css",
-    "static/js/main.74f73a86.js"
+    "static/css/main.1ba53dc4.css",
+    "static/js/main.44ff45ad.js"
   ]
 }
