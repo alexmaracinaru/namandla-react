@@ -1,30 +1,29 @@
-
--[
+[
     {
         "category": "LeadershipTech",
-        "name": "SummitAlign",
-        "description": "Build stronger, more cohesive teams with AI-driven insights and achieve alignment for peak performance.",
+        "name": "SummitA",
+        "description": "SummitA uses AI-driven insights to help teams build stronger connections and achieve peak alignment. The platform empowers leaders to identify strengths, address gaps, and create strategies for fostering collaboration and cohesion across their organizations.",
         "image": "/images/startups/summitalign.png",
         "link": "#"
     },
     {
         "category": "HealthTech",
         "name": "NutriLogic",
-        "description": "Scientific nutrition insights powered by AI. Decode your health data for precision and personalized results.",
+        "description": "NutriLogic decodes health data with precision, offering personalized nutrition insights powered by AI. The platform enables users to make informed dietary decisions, transforming complex data into actionable steps for achieving optimal health and wellness.",
         "image": "/images/startups/saluto.png",
         "link": "#"
     },
     {
         "category": "Podcast",
-        "name": "Faces of Inspiration",
-        "description": "Discover powerful stories of resilience, growth, and creativity through engaging conversations and inspiring voices.",
+        "name": "FoI Podcast",
+        "description": "Faces of Inspiration is a podcast that uncovers powerful stories of resilience, growth, and creativity. Through engaging conversations and inspiring voices, it offers listeners a journey into the lives of those who have overcome challenges and sparked meaningful change.",
         "image": "/images/startups/reminis.png",
         "link": "#"
     },
     {
         "category": "Data Analytics",
-        "name": "MediaPulse",
-        "description": "Your source for real-time news, analytics, and trends. Transform data into decisions with precision and speed.",
+        "name": "Media Pulse",
+        "description": "MediaPulse turns data into decisions by delivering real-time news, trends, and analytics. Designed for precision and speed, the platform empowers users to navigate today’s fast-paced world with insights that matter.",
         "image": "/images/startups/mediapulse.png",
         "link": "#"
     }
