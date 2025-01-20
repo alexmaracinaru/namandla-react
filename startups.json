@@ -8,22 +8,22 @@
     },
     {
         "category": "HealthTech",
-        "name": "NutriLogic",
-        "description": "NutriLogic decodes health data with precision, offering personalized nutrition insights powered by AI. The platform enables users to make informed dietary decisions, transforming complex data into actionable steps for achieving optimal health and wellness.",
+        "name": "Clarae",
+        "description": "Clarae decodes health data with precision, offering personalized nutrition insights powered by AI. The platform enables users to make informed dietary decisions, transforming complex data into actionable steps for achieving optimal health and wellness.",
         "image": "/images/startups/saluto.png",
         "link": "#"
     },
     {
         "category": "Podcast",
         "name": "FoI Podcast",
-        "description": "Faces of Inspiration is a podcast that uncovers powerful stories of resilience, growth, and creativity. Through engaging conversations and inspiring voices, it offers listeners a journey into the lives of those who have overcome challenges and sparked meaningful change.",
+        "description": "Faces of Inclusion is a podcast that uncovers powerful stories of resilience, growth, and creativity. Through engaging conversations and inspiring voices, it offers listeners a journey into the lives of those who have overcome challenges and sparked meaningful change.",
         "image": "/images/startups/reminis.png",
         "link": "#"
     },
     {
         "category": "Data Analytics",
         "name": "Media Pulse",
-        "description": "MediaPulse turns data into decisions by delivering real-time news, trends, and analytics. Designed for precision and speed, the platform empowers users to navigate today’s fast-paced world with insights that matter.",
+        "description": "Media Pulse turns data into decisions by delivering real-time news, trends, and analytics. Designed for precision and speed, the platform empowers users to navigate today’s fast-paced world with insights that matter.",
         "image": "/images/startups/mediapulse.png",
         "link": "#"
     }
